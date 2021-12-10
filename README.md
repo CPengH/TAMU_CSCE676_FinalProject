@@ -10,7 +10,7 @@ Suicide Squad
 Chienpeng Huang, Jiahua Cheng, Aaryan Kothapalli
 
 ## Poster
-
+[Poster](https://github.com/CPengH/TAMU_CSCE676_FinalProject/blob/main/Poster.pdf)
 
 ## Reference
 [Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction](https://github.com/ayaanzhaque/SDCNL)
